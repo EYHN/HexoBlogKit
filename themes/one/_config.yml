@@ -18,8 +18,8 @@ uiux:
     defaultAccentColor: "red"
 
 comment:
-    duoshuo:
-        shortName: "huaji-blog"
+    disqus:
+        shortName: "huaji8"
 
 Drawer:
     -

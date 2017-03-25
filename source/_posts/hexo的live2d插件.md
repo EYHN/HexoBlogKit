@@ -18,6 +18,8 @@ accentcolor: blueGrey
 
 [![npm version](https://badge.fury.io/js/hexo-helper-live2d.svg)](https://badge.fury.io/js/hexo-helper-live2d)
 
+{% github EYHN hexo-helper-live2d 81d768d%}
+
 ## hexo-helper-live2d
 
 为你的hexo添加色气满满的live2d吧！
@@ -26,7 +28,7 @@ accentcolor: blueGrey
 npm install -save hexo-helper-live2d
 ```
 
-Example: [https://delusion.coding.me/](https://delusion.coding.me/)
+~~Example: [https://delusion.coding.me/](https://delusion.coding.me/)~~
 
 ![范例图片](/img/hexo的live2d插件/z16.jpg "z16")
 
