@@ -118,7 +118,7 @@ Drawer:
             viewBox: '0 0 1024 1024'
 
 #取色器(在侧边抽屉)
-colorPicker: true
+colorPicker: false
 
 #首页工具栏移动端不显示（在首页第2张卡片）
 homeToolBar:
