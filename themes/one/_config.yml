@@ -67,7 +67,7 @@ Drawer:
       #标题: 页面标题
       name: 关于本站
       #图标
-      icon: account_circle
+      icon: info
     -
       #标题: 搜索
       title: 搜索
