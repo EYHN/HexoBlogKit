@@ -5,6 +5,13 @@
   "hexo": {
     "version": "3.2.2"
   },
+  "scripts": {
+    "start": "hexo s",
+    "build": "hexo g",
+    "clean": "hexo clean",
+    "d" :"hexo d"
+    
+  }
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-imagemin": "^3.1.1",
