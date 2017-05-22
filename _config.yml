@@ -78,3 +78,7 @@ feed:
   limit: 20
   hub:
   content:
+
+live2d:
+  model: nipsilon
+  bottom: -60
