@@ -59,3 +59,21 @@ hexo live2d 插件升级 2.0 啦，新增数十个高质量模型。把你的老
 
 #### z16
 ![](/img/live2d/z16.gif)
+
+#### hibiki
+![](/img/live2d/hibiki.gif)
+
+#### koharu
+![](/img/live2d/koharu.gif)
+
+#### haruto
+![](/img/live2d/haruto.gif)
+
+#### Unitychan
+![](/img/live2d/Unitychan.gif)
+
+#### tororo
+![](/img/live2d/tororo.gif)
+
+#### hijiki
+![](/img/live2d/hijiki.gif)
