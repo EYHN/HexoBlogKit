@@ -2,16 +2,24 @@ layout: 'footer'
 ---
 
 <script>lsloader.load("live2d-script","/live2d/script.js")</script>
-<canvas id="live2dcanvas" width="150" height="300" class="live2d"></canvas>
+<canvas id="live2dcanvas" width="200" height="400" class="live2d"></canvas>
 <style>
   #live2dcanvas {
     position: fixed;
     right: 0px;
     z-index: 999;
     pointer-events: none;
-    bottom: -60px;
+    bottom: -40px;
+    width: 200px;
+    height: 400px;
+  }
+  @media (max-width: 768px) {
+    #live2dcanvas {
+      width: 150px;
+      height: 300px;
+    }
   }
 </style>
 <script type="text/ls-javascript" id="loadlive2d">
-loadlive2d("live2dcanvas" ,"/live2d/assets/nito/nipsilon.model.json")
+loadlive2d("live2dcanvas" ,"/live2d/assets/koharu/koharu.model.json")
 </script>
