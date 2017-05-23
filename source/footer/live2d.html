@@ -1,0 +1,17 @@
+layout: 'footer'
+---
+
+<script>lsloader.load("live2d-script","/live2d/script.js")</script>
+<canvas id="live2dcanvas" width="150" height="300" class="live2d"></canvas>
+<style>
+  #live2dcanvas {
+    position: fixed;
+    right: 0px;
+    z-index: 999;
+    pointer-events: none;
+    bottom: -60px;
+  }
+</style>
+<script type="text/ls-javascript" id="loadlive2d">
+loadlive2d("live2dcanvas" ,"/live2d/assets/nito/nipsilon.model.json")
+</script>
